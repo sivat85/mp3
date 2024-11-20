@@ -135,8 +135,11 @@ body{
 	position: absolute;
 	top: 20px;
 	right: 20px;
-    background-color: #f774a4;
-	/*background-color: linear-gradient(var(--pink) 0%, var(--violet) 100%);*/
+  background: linear-gradient(135deg, var(--pink), var(--violet)); /* Gradient background */
+  color: var(--white);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  /*background-color: #f774a4;
+	background-color: linear-gradient(var(--pink) 0%, var(--violet) 100%);*/
 	color: #ffffff;
 	border-radius: 7px;
 	-webkit-border-radius: 7px;
@@ -442,4 +445,5 @@ ul li.playing{
 #vpersentage {
 	margin-left: 10px;
 	margin-bottom: 5px;
+  color: var(--lightblack);
 }
