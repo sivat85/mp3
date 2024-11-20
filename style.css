@@ -75,13 +75,13 @@ body{
 	display: flex;
 	align-items: center;
 	/*justify-content: center;*/
-	transform: translateY(-60px);
+	transform: translateY(-50px);
 	transition: 0.5s;
 	z-index: 10;
 	background: #ffffff;
 	margin-left: 15%;
+  height: 30%;
 	/*width: 200px;*/
-	height: 10%;
 	/*box-shadow: 0px -5px 10px rgba(0,0,0,0.1);*/
 	/*margin-left: 40px;*/
 }
@@ -135,17 +135,14 @@ body{
 	position: absolute;
 	top: 20px;
 	right: 20px;
-    /*background-color: #f774a4;*/
+    background-color: #f774a4;
 	/*background-color: linear-gradient(var(--pink) 0%, var(--violet) 100%);*/
-  background: linear-gradient(135deg, var(--pink), var(--violet)); /* Gradient background */
-  color: var(--white);
-	/*color: #ffffff;*/
+	color: #ffffff;
 	border-radius: 7px;
 	-webkit-border-radius: 7px;
 	-moz-border-radius: 7px;
 	-ms-border-radius: 7px;
 	-o-border-radius: 7px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 	/*width: auto !important;*/
 	/*display: flex;*/
     /*align-items: center;*/
