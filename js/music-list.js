@@ -53,16 +53,16 @@ let allMusic = [
     src: "https://masstamilan.download/t/2021/Bachelor/320/Adiye-MassTamilan.fm.mp3?h=1732110351-%2Bwa3qJxtFi9%2FXvClb4WfaEvinVY31M0trLjxeptpBI0%3D"  // MP3 URL
   },
   {
-    name: "Maruvaarthai",
-    artist: "Adheef, Nipin, Ram, Vishnu",
-    img: "https://img.youtube.com/vi/gD8Zk4EqEUA/hqdefault.jpg",  // Image URL
-    src: "https://w1.savevids.net/downloads/a18f0e48-70da-4401-9a98-7ddd3480abf2/MARUVAARTHAI%20Enai%20Noki%20Paayum%20Thota%20Cover%20by%20Adheef%20Nipin%20Ram%20Vishnu.mp3"  // MP3 URL
+    name: "Thala Kodhum",
+    artist: "Sean Roldan, Pradeep Kumar, Raju Murugan",
+    img: "https://c.saavncdn.com/892/Thala-Kodhum-From-Jai-Bhim--Tamil-2021-20211025143338-500x500.jpg",  // Image URL
+    src: "https://masstamilan.download/t/2021/Jai-Bhim/320/Thala-Kodhum-MassTamilan.fm.mp3?h=1732191546-O%2FULSavoroCDx0jJYZbmMzacxW50QxwMMvEbajAhJKo%3D"  // MP3 URL
   },
   {
-    name: "7UP Madras Gig - Orasaadha",
-    artist: "Vivek - Mervin",
-    img: "https://img.youtube.com/vi/93Y_eCwdR5k/hqdefault.jpg",  // Image URL
-    src: "https://proxy.savevids.net/downloads/b5368f26-aaba-44cd-9497-ccb9f1580288/7UP%20Madras%20Gig%20Orasaadha%20Vivek%20Mervin.mp3"  // MP3 URL
+    name: "Kodi Aruvi",
+    artist: "Pradeep Kumar, Nithyashri",
+    img: "https://i.ytimg.com/vi/FTiSbUNCSYY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-F3CQyges70kTrjaigM-l3z5VLg",  // Image URL
+    src: "https://masstamilan.download/t/2019/Mehandi-Circus/320/Kodi-Aruvi-MassTamilan.org.mp3?h=1732191840-fr3g%2FKv%2BbkTYJQQP1Bh8kR0Hx%2BDDIiLyhjRcQf09XHU%3D"  // MP3 URL
   },
   {
     name: "Othaiyadi Pathayila",
